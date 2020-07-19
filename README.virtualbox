@@ -1,13 +1,13 @@
 
 Download VirtualBox and install
 
-Download Ubuntu desktop install and save on local disk [ubuntu-18.04.2-desktop-amd64.iso]
+Download Ubuntu desktop install and save on local disk [ubuntu-20.04-desktop-amd64.iso]
 
 Setup new machine
 
 Click on New
 
-Type in a name [chapter5]
+Type in a name [chapter10]
 Select Linux and Ubuntu 64-bit
 
 Select the amount of memory [4096]
@@ -22,7 +22,7 @@ Should see the new virtual machine added to the list
 
 Start Ubuntu virtual machine (Green arrow, start)
 
-Select iso file saved earlier [ubuntu-18.04.2-desktop-amd64.iso]
+Select iso file saved earlier [ubuntu-20.04-desktop-amd64.iso]
 
 Select Install Ubuntu
 
@@ -35,10 +35,10 @@ Select Install Now
 
 Select timezone
 
-Your name [chapter5]
-Your computer's name [chapter5-virtualbox]
-Username [chapter5]
-password [chapter5]
+Your name [chapter10]
+Your computer's name [chapter10-virtualbox]
+Username [chapter10]
+password [chapter10]
 Select "Require my password to log in"
 
 Select continue
