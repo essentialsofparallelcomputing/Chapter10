@@ -1,0 +1,7 @@
+All: BabelStream
+
+.PHONY: BabelStream
+
+BabelStream:
+	cd BabelStream && export EXTRA_FLAGS='-Xptxas="-v"' && make -f CUDA.make
+
