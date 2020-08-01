@@ -2,8 +2,8 @@ All: lambda Makefile.CUDA
 
 .PHONY: lambda Makefile.CUDA
 
-lambda: lambda/lambda
-	make && ./lambda
+lambda:
+	cd lambda && make && ./lambda
 
 Makefile.CUDA:
 	./Makefile.CUDA
