@@ -1,4 +1,5 @@
-All: lambda Makefile.CUDA Makefile.OpenCL
+All: lambda Makefile.CUDA
+#All: lambda Makefile.CUDA Makefile.OpenCL
 
 .PHONY: lambda Makefile.CUDA Makefile.OpenCL
 
